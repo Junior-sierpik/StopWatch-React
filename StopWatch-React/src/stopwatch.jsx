@@ -8,8 +8,24 @@ function stopWatch() {
   const startTimeRef = useRef(0);
 
   useEffect(() => {
+
+  }, [isRunning]);
+
+  function start(){
+
+  }
+
+  function stop(){
+
+  }
+
+  function reset(){
+
+  }
+
+  function formatTime(){
     
-  });
+  }
 
   return(
     <></>
