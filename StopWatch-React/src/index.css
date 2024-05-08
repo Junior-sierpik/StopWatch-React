@@ -2,7 +2,7 @@ body{
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: hsl(0, 0%, 95%);
+  background-color: hsl(0, 3%, 19%);
 }
 .stopWatch{
   display: flex;
@@ -12,6 +12,7 @@ body{
   border-radius: 50px;
   background-color: white;
   padding: 30px;
+  background-color: hsl(0, 10%, 86%);
 }
 .display{
   font-size: 5rem;
